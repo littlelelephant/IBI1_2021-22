@@ -4,8 +4,7 @@
 
 # Note from 7/1/21, I have cloned this repo onto the ZJE server and am now going to attempt to push it back onto GitHub.
 
-This is an example file for reflection in IBI1_2019-20.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I have also learnt to write careful instructions when communicating online!
+I had some problems at the beginning of my study.
+Mainly because I still don't understand the meaning and principles of the code.
+But after a period of learning and trying, I gradually had a deeper understanding of the code.
+I feel happy when my code is successfully executed by the computer. 

@@ -9,22 +9,11 @@ print('the rate of new cases in 2021=',d/c)
 print('the rate of new cases in 2022=',e/b)
  #Obviously the rate of new cases in 2021 is greater
 
-x="deng"
-y="jiaqi"
-w=x and y
-print(w)
-
-x="1"
-y="2"
-w=x and y
-print(w)
-
-x="dog"
-y="cat"
-w=x and y
-print(w)
-
-x="0"
-y="jiaqi"
-w=x and y
-print(w) #I find that almost everything except 0, '', etc. are True.
+X = 0
+Y = 1
+bool(X)
+bool(Y)
+print("X:",bool(X))
+print("Y:",bool(Y))
+Z = bool(X) and bool(Y)
+print("X and Y:",Z)

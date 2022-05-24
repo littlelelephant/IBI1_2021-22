@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt #use the module
 x=list(risk_dict.keys()) #use keys as x-value
 y=list(risk_dict.values()) #use keys as y-value
 plt.scatter(x,y) #make the scatter plots graph
+plt.xlabel('paternal_age')
+plt.ylabel('CHD')
 plt.show() #show the graph
 
 riskrate=risk_dict['60'] #we use '60' for example, we can change the key to get different value

@@ -1,0 +1,10 @@
+# Third note on 7/1/21, yes! I can make changes in both directions!!
+
+# Second note from 7/1/21, I managed to get changes on the ZJE server onto GitHub but can I make changes on the website and send them back?
+
+# Note from 7/1/21, I have cloned this repo onto the ZJE server and am now going to attempt to push it back onto GitHub.
+
+I had some problems at the beginning of my study.
+Mainly because I still don't understand the meaning and principles of the code.
+But after a period of learning and trying, I gradually had a deeper understanding of the code.
+I feel happy when my code is successfully executed by the computer. 
